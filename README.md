@@ -22,3 +22,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
 
+[![](https://visitcount.itsvg.in/api?id=Subiksha&label=Stars&color=0&icon=9&pretty=true)](https://visitcount.itsvg.in)
+
