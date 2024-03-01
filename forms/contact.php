@@ -29,7 +29,7 @@
     'host' => 'example.com',
     'username' => 'example',
     'password' => 'pass',
-    'port' => '587'
+    'port' => '9090'
   );
   
 
